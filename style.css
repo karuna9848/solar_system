@@ -11,7 +11,7 @@ body{
     color: white;
 }
 .parent{
-    padding: 40px;
+    padding-top:500px;
     display:flex;
     align-items:center;
     justify-content: center;
